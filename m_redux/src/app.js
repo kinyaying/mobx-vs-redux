@@ -1,4 +1,7 @@
-import React, {Component} from 'react';
-import ReactDOM from 'react-dom';
-
-ReactDOM.render(<div>11</div>, document.querySelector('#app'));
+// import React, {Component} from 'react';
+// import ReactDOM from 'react-dom';
+// import List from './pages/List.js';
+//
+// ReactDOM.render(<div><List /></div>, document.querySelector('#app'));
+let url = require('./pages/List.js');
+// console.log(url);
